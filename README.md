@@ -3,8 +3,8 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/your_username/Ocean-Watch">
- <img src="https://github.com/HACC2023/CodeWithAloha/assets/113944962/a0dd5064-93d4-4e30-9a1d-1c933c77a1c7" alt="CWA-logo" height="80px">
+  <a href="https://github.com/CodeWithAloha/Ocean-Watch">
+ <img src="./logo.png" alt="CWA-logo" height="80px">
   </a>
   <h3 align="center">Ocean Watch</h3>
   <p align="center">
@@ -15,9 +15,11 @@
   </p>
 </div>
 
-![sh1](https://github.com/HACC2023/CodeWithAloha/assets/113944962/e60a9c71-fd3d-4548-9488-bedc2959348e)
+![sh1](./demo.png)
 
 Ocean Watch is a comprehensive solution to the marine debris problem in Hawaii. Motivated by the urgent need for cleaner oceans, we have developed a platform that empowers everyone to contribute to environmental conservation.
+
+This is our submission for the [2023 Hawaii Annual Code Challenge](https://hacc.hawaii.gov/).
 
 ## What Sets Ocean Watch Apart
 
